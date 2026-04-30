@@ -1,4 +1,4 @@
-# 🎯 TaskFlow - Team Task Manager
+# 🎯 Team Task Manager
 
 A full-stack **Team Task Management Application** built using the **MERN stack**.
 TaskFlow helps teams efficiently manage projects, assign tasks, track progress, and collaborate — all with a modern glassmorphism UI.
