@@ -41,22 +41,3 @@ export default function App() {
   );
 }
 
-.taskflow-title {
-  font-size: 2rem;
-  font-weight: 800;
-  text-align: center;
-
-  color: #ffffff;
-  letter-spacing: 2px;
-
-  /* 🔥 glow effect */
-  text-shadow:
-    0 0 8px rgba(255,255,255,0.4),
-    0 0 20px rgba(255,90,95,0.5),
-    0 0 40px rgba(100,100,255,0.4);
-
-  /* optional gradient text */
-  background: linear-gradient(135deg, #ff5a5f, #60a5fa);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
